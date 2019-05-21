@@ -1,2 +1,2 @@
-# Highly divisible triangular number
+# Python programm to compute highly divisible triangular number
 # 
